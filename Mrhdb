@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>سردسته هیئت عاشقان ولایت سخوید - علیرضا حاتمی سخویدی</title>
+  <meta name="description" content="سردسته هیئت عاشقان ولایت سخوید، علیرضا حاتمی سخویدی، وب‌سایت رسمی و اطلاعات مرتبط." />
+  <meta name="keywords" content="سردسته هیئت عاشقان ولایت سخوید, علیرضا حاتمی سخویدی, هیئت عاشقان ولایت سخوید" />
+  <meta name="author" content="علیرضا حاتمی سخویدی" />
+  <style>
+    body {
+      font-family: 'Tahoma', sans-serif;
+      background-color: #f7f7f7;
+      color: #333;
+      text-align: center;
+      padding: 50px 20px;
+    }
+    h1 {
+      color: #2c3e50;
+      margin-bottom: 10px;
+    }
+    p.sardaste {
+      font-size: 1.1em;
+      color: #555;
+      margin-top: 0;
+      margin-bottom: 30px;
+    }
+    p.main-text {
+      font-size: 1.2em;
+      line-height: 1.6em;
+      max-width: 600px;
+      margin: 0 auto;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+  <h1>سردسته هیئت عاشقان ولایت سخوید</h1>
+  <p class="sardaste"><strong>علیرضا حاتمی سخویدی</strong></p>
+  <p class="main-text">
+    سلام به همه دوستان و همراهان عزیز،<br />
+    اینجا خونه‌ی عشق و ارادت ما به ولایت و اهل بیت (ع) است.<br />
+    با هم می‌خواهیم راه نورانی اهل بیت رو زنده نگه داریم و دل‌ها رو به محبت و معرفت روشن کنیم.<br />
+    خوش آمدید به جمع هیئت عاشقان ولایت سخوید، همراه هم باشیم و مسیر ایمان رو قوی‌تر کنیم.
+  </p>
+</body>
+</html>
